@@ -6,7 +6,7 @@ When username and password are correct, take the token and get the number of tas
 
 Display that number with the last request processing time in milliseconds.
 
-Use the `authenticate` mocked method to similate the server request.
+Use the `authenticate` mocked method to simulate the server request.
 
 Use the `getNumberOfTasks` mocked method to get the number of tasks.
 
